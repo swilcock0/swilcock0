@@ -1,4 +1,4 @@
-# Hi, I'm Sam Wilcock 👋
+# Hi, I'm Sam 👋
 
 Research fellow in the [Arch // Struct Lab](https://archstructlab.com) at the
 [Politecnico di Milano](https://www.polimi.it/), using robots to build structures.
