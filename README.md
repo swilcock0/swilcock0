@@ -8,7 +8,7 @@ shell systems, multi-camera tracking so robots know where parts really are, and 
 that take complex geometry from the CAD model to the assembled thing with as little
 hand-holding as possible.
 
-**Day to day:** ROS 2, C++ and Python on the robot side; Rhino and Grasshopper on the design side; mechanical and mechatronic design with SolidWorks and Raspberry Pi.
+**Day to day:** ROS 2, C++ and Python on the robot side; Rhino and Grasshopper on the design side; mechanical and mechatronic design with SolidWorks, Raspberry Pi and whatever else necessary.
 
 **Background:** PhD on efficient robotic assembly of shell structures (University of Leeds),
 MSc (Eng) Mechatronics and Robotics, BSc Mechanical Engineering. Fellow of the Higher Education Academy.
